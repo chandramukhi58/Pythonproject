@@ -39,5 +39,5 @@ elif pos.startswith('R'):
     category="Adverb"
 else:
     category="other"
-print("Grammatical Category:",pos)
+print("Grammatical Category:",category)
 
